@@ -1,4 +1,3 @@
-# 欢迎来到我的 GitHub 主页！👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=1C2526&width=450&lines=404+Not+Found;Code,+coffee,+repeat!;Git+commit+-m+'Save+my+soul';%E8%87%AA%E7%94%B1%2C+%E7%88%B1%2C+%E7%94%9F%E6%B4%BB" alt="Typing SVG" />
@@ -19,7 +18,3 @@
 </div>
 
 
-## 技术栈
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
