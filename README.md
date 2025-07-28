@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=1C2526&width=450&lines=404+Not+Found;Code,+coffee,+repeat!;Git+commit+-m+'Save+my+soul';%E8%87%AA%E7%94%B1%2C+%E7%88%B1%2C+%E7%94%9F%E6%B4%BB" alt="Typing SVG" />
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <img src="https://cdn.jsdelivr.net/gh/FR13NDS-wolf/FR13NDS-wolf/assets/images/chat-bird-cover-cover.webp" />
+    <img src="https://cdn.jsdelivr.net/gh/FR13NDS-wolf/FR13NDS-wolf/assets/images/code-bird.webp" />
   </picture>
   <div>&nbsp;</div>
 </div>
