@@ -1,4 +1,4 @@
-## Hi there 👋
+<div align="center"> <img src="https://metrics.lecoq.io/FR13NDS-wolf?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!--
 **FR13NDS-wolf/FR13NDS-wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
